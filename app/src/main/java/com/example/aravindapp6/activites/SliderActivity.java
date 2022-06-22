@@ -17,6 +17,7 @@ public class SliderActivity extends AppCompatActivity {
     ViewPager2 viewPager2;
     MyAdapter myAdapter;
     int[] images={R.color.purple_700,R.color.teal_700,R.color.purple_200,R.color.teal_200};
+    int[] images1={R.color.purple_700,R.color.teal_700,R.color.purple_200,R.color.teal_200};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
